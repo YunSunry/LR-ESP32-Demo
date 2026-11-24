@@ -27,3 +27,5 @@ void loop() {
   }
 }
 ```
+<img width="1920" height="1017" alt="ESP32-lr32" src="https://github.com/user-attachments/assets/d411b034-887a-4c77-8293-01835d3a5fc4" />
+
